@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://elastic-goldwasser-f24629.netlify.com/* http://netlify.ajmalaju.com/:splat 301!
